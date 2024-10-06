@@ -20,14 +20,7 @@ export default function AppAbout() {
             <Image src={img1} />
           </Col>
           <Col sm={6}>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Reprehenderit dicta veritatis sint quidem asperiores magni eaque
-            praesentium temporibus, magnam, eveniet consequatur possimus nihil?
-            Nemo deserunt repudiandae soluta neque doloribus, quo! Lorem ipsum
-            dolor sit amet, consectetur adipisicing elit. Vitae alias ex error
-            distinctio laudantium recusandae, iure. Vel nisi soluta, minus
-            consectetur reiciendis laborum, laudantium perspiciatis quos
-            molestias quam eum.</p> 
+            <p>Welcome to Your Digital Solution Hub, your go-to platform for professional online services including custom website development, web design, and SEO optimization. We specialize in building user-friendly, responsive websites that help businesses establish a strong online presence. Our services also include creative web design tailored to enhance user experience, expert SEO strategies to boost your search engine rankings, and ongoing website maintenance to ensure peak performance. Whether you're starting from scratch or looking to revamp your digital strategy, we're here to deliver top-notch solutions that drive growth and success.</p> 
             <div className="progress-block">
                 <h4>HTML / CSS / Javascript</h4>
             <ProgressBar now={html} label={`${html}%`} />

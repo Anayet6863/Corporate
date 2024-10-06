@@ -4,21 +4,21 @@ import Navbar from 'react-bootstrap/Navbar';
 
 export default function AppHeader(){
     return (
-        <Navbar expand="lg" className="bg-body-tertiary">
+        <Navbar expand="lg" className="bg-body-tertiary ">
         <Container>
           <Navbar.Brand href="#home">Corporate</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
-            <Nav className="me-auto">
+            <Nav className="me-auto font-bold">
               <Nav.Link href="#home">Home</Nav.Link>
-              <Nav.Link href="#About">About</Nav.Link>
-              <Nav.Link href="#Services">Services</Nav.Link>
-              <Nav.Link href="#Works">Works</Nav.Link>
-              <Nav.Link href="#Teams">Teams</Nav.Link>
-              <Nav.Link href="#Testimonials">Testimonials</Nav.Link>
-              <Nav.Link href="#Pricing">Pricing</Nav.Link>
-              <Nav.Link href="#Blog">Blog</Nav.Link>
-              <Nav.Link href="#Contact">Contact</Nav.Link>
+              <Nav.Link href="#about">About</Nav.Link>
+              <Nav.Link href="#services">Services</Nav.Link>
+              <Nav.Link href="#works">Works</Nav.Link>
+              <Nav.Link href="#teams">Teams</Nav.Link>
+              <Nav.Link href="#testimonials">Testimonials</Nav.Link>
+              <Nav.Link href="#pricing">Pricing</Nav.Link>
+              <Nav.Link href="#blog">Blog</Nav.Link>
+              <Nav.Link href="#contact">Contact</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
