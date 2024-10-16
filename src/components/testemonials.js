@@ -30,7 +30,8 @@ export default function AppTestimonials() {
           <h2>Client testimonials</h2>
           <div className="subtitle">what client says about us</div>
         </div>
-        <Carousel controls={false}>
+        <Carousel >
+          {/* controls={false} */}
           {
             testimonialsData.map(testimonials => {
               return (
