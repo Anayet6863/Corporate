@@ -11,7 +11,7 @@ const teamsData = [
         linkedinLink: 'https://www.linkedin.com',
         name: 'Gabriel Hart',
         designation: 'CEO',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui facilis, totam maiores.'
+        description: "Leadership is not about being in charge. It's about taking care of those in your charge."
     },
     {
         id: 2,
@@ -21,7 +21,7 @@ const teamsData = [
         linkedinLink: 'https://www.linkedin.com',
         name: 'David Antony',
         designation: 'Manager',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui facilis, totam maiores.'
+        description: "Management is doing things right; leadership is doing the right things."
     },
     {
         id: 3,
@@ -31,7 +31,7 @@ const teamsData = [
         linkedinLink: 'https://www.linkedin.com',
         name: 'Nicholas Perry',
         designation: 'UX Designer',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui facilis, totam maiores.'
+        description: "Design is not just what it looks like and feels like. Design is how it works."
     },
     {
         id: 4,
@@ -41,7 +41,7 @@ const teamsData = [
         linkedinLink: 'https://www.linkedin.com',
         name: 'Sarah Wills',
         designation: 'Developer',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui facilis, totam maiores.'
+        description: "Code is like humor. When you have to explain it, it’s bad."
     },
     {
         id: 5,
@@ -51,7 +51,7 @@ const teamsData = [
         linkedinLink: 'https://www.linkedin.com',
         name: 'Sophia Pitt',
         designation: 'Developer',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui facilis, totam maiores.'
+        description: "First, solve the problem. Then, write the code." 
     },
     {
         id: 6,
@@ -61,7 +61,7 @@ const teamsData = [
         linkedinLink: 'https://www.linkedin.com',
         name: 'Taylor Lopez',
         designation: 'Developer',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui facilis, totam maiores.'
+        description: "Programs must be written for people to read, and only incidentally for machines to execute."
     },
     {
         id: 7,
@@ -71,7 +71,7 @@ const teamsData = [
         linkedinLink: 'https://www.linkedin.com',
         name: 'Ryan Giggs',
         designation: 'Content Writer',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui facilis, totam maiores.'
+        description: "Good content isn’t about good storytelling. It’s about telling a true story well."
     },
     {
         id: 8,
@@ -81,7 +81,7 @@ const teamsData = [
         linkedinLink: 'https://www.linkedin.com',
         name: 'David Smith',
         designation: 'SEO Expert',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui facilis, totam maiores.'
+        description: "The best place to hide a dead body is page two of Google search results." 
     }
 ]
 export default function AppTeams() {

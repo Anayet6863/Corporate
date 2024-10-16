@@ -24,7 +24,7 @@ var heroData = [
   }
 ]
 
-function AppHero() {
+export default function AppHero() {
   return (
     <section id="home" className="hero-block">
        <Carousel>
@@ -51,4 +51,3 @@ function AppHero() {
   );
 }
 
-export default AppHero;
